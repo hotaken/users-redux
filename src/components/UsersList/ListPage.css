@@ -1,0 +1,28 @@
+.list-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.list-page__form {
+    border: 0.1rem solid #3d4957;
+    border-radius: 1rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+    margin-bottom: 2rem;
+}
+.list-page__input {
+    margin: 10px auto;
+    width: 300px;
+}
+
+.list-page__table {
+    border: 1px solid black;
+    padding: 12px;
+    background-color: #3d4957;
+    color: #dbc7a6;
+    text-align: left;
+    border-radius: 10px;
+}

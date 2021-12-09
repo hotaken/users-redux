@@ -1,0 +1,20 @@
+.header {
+    background-color: #282e3a;
+    padding: 0 1rem;
+}
+
+.header__inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.header__link {
+    border: 0;
+    background-color: #3d4957;
+    display: block;
+    padding: 1rem;
+    color: #ececec;
+}
